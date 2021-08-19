@@ -4,3 +4,5 @@ project(acchud)
 set(CMAKE_CXX_STANDARD 20)
 
 add_executable(acchud src/main.cpp)
+
+target_include_directories(acchud PRIVATE imgui)
