@@ -2,6 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/imgui" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/include/imgui" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/include/kiero" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/include/kiero/examples/imgui/imgui" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/include/kiero/minhook" vcs="Git" />
   </component>
 </project>
